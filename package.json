@@ -1,0 +1,16 @@
+{
+  "name": "collabrative-drawing-board",
+  "version": "1.0.0",
+  "description": "collabrative drawing board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khushboo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}
